@@ -1,0 +1,17 @@
+{
+   "hosting": {
+      "site": "landingpagesetyaplay",
+      "public": "index.html",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
    "hosting": {
       "site": "landingpagesetyaplay",
-    "public": "public",
+      "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
